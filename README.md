@@ -1,6 +1,7 @@
 # TaobaoUnion
 ## 介绍
 java版淘宝联盟客户端，主体使用MVPArms,利用MVP + Dagger + Retrofit + Rxjava等框架开发。
+功能:浏览商品，领取优惠卷，搜索商品，网站商品扫码领卷。
 ## 界面截图
 |![](img/首页.jpg)|![](img/精选.jpg)|
 |:---:|:---:|
